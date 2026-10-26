@@ -1,4 +1,4 @@
-```python
+python
 import time
 
 
@@ -102,4 +102,3 @@ if __name__ == "__main__":
 
         print(f"{amount:<10}{recursive_time:<18.8f}"
               f"{memoized_time:<18.8f}{dp_time:<18.8f}")
-```
